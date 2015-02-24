@@ -1,0 +1,1 @@
+Small project to demonstrate performance anomalies when reading from memory, disk or processing data. 
